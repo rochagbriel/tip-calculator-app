@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/rochagbriel/tip-calculator-app
+- Solution URL: (https://github.com/rochagbriel/tip-calculator-app)
 - Live Site URL:
 
 ## My process
@@ -30,6 +30,7 @@ Users should be able to:
 
 ## Author
 
+- LinkedIn - (https://www.linkedin.com/in/gabrielrochagois/)
 - Github - (https://github.com/rochagbriel)
 - Frontend Mentor - [@rochagbriel](https://www.frontendmentor.io/profile/rochagbriel)
 
