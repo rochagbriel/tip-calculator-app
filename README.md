@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://github.com/rochagbriel/tip-calculator-app
 - Live Site URL:
 
 ## My process
